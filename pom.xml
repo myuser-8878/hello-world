@@ -100,7 +100,7 @@
 
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
-          <version>2.3.2</version>
+          <version>3.11.0</version>
         </plugin>
 
         <plugin>
@@ -221,7 +221,7 @@
   </scm>
 
   <prerequisites>
-    <maven>3.0.3</maven>
+    <maven>3.6.3</maven>
   </prerequisites>
 
 </project>
