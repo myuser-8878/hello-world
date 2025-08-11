@@ -34,8 +34,8 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <source>1.7</source> <!-- Or a later version like 11, 17, etc. -->
-                    <target>1.7</target> <!-- Must match the source version -->
+                    <source>1.8</source> <!-- Or a later version like 11, 17, etc. -->
+                    <target>1.8</target> <!-- Must match the source version -->
                 </configuration>
       </plugin>
                     <plugin>
